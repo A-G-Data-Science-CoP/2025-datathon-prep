@@ -1,0 +1,73 @@
+---
+title: "Mission: Lifeline Datathon Preparation"
+---
+
+Organized by the A-G Associates Data Science Community of Practice, in preparation for our September 2025 Suicide Prevention Month datathon.
+
+## Goals
+
+-   To connect staff across the company with a common goal, using available data and tools, leveraging varied expertise
+
+-   To launch our Data Science Community of Practice GitHub with a portfolio of creative projects based on public data sets, for use as a marketing tool online
+
+-   To advance understanding of available VA data sets and analytic approaches that could be leveraged for the VA SPP
+
+## Timeline
+
+-   August
+
+    -   Monthly CoP meeting focused on preparation - August 15 or 22 (TBD)
+
+-   September
+
+    -   Execute datathon - September 12 & 19
+
+    -   Datathon final presentation - September 30 during All Staff meeting
+
+## Teams
+
+Participants will be grouped into logical teams based on data accesses (VA versus public) and area of expertise.
+
+Teams will be provided with examples of potential data sources, research questions, templated outputs (leveraging the A-G brand toolkit), and analytic techniques, as well as as a rubric for structured guidance.
+
+## Data sources
+
+If you are VA-cleared, your team will likely use VA data sources. We are currently working on compiling a list of available data sources we are approved to use.
+
+If you are not, your team will likely be working with public data sets, available online. We will provide a few examples of curated data sets (coming soon).
+
+However, please do not allow this to limit your team - search online for accessible data sets that will help you answer your research question. If you have access to another data set you'd like to use, please bring it (assuming you have the appropriate approvals).
+
+## Research questions
+
+We will aim to have finalized research questions and basic analytic plans (which can change as needed) for each team by the end of the August CoP meeting, during which each team will meet to prepare.
+
+When possible within the limitation of the datathon, we will align with the VA SPP research questions:
+
+1.  What innovative strategies engage the 50% of un- and disengaged Veterans AND replicate (to the extent practicable) the VA's suicide prevention system in the community?
+2.  In addition to the resources provided by VA, what innovative upstream and downstream support exists in communities to serve Veterans at risk of suicide?
+3.  What is the demand for suicide clinical and non-clinical support among Veterans? Where are they seeking and obtaining support now? What are their preferences?
+4.  Which evidence-based practices are utilized by community-based organizations and providers and have the greatest impact on preventing Veteran suicide?
+5.  Which emerging innovations are utilized by community-based organizations and providers and show the greatest promise for preventing Veteran suicide?
+6.  Which evidence-based supports and emerging innovations, in what combination, have the greatest impact on preventing Veteran suicide?
+7.  What VA systems, policies, processes, or practices impede Veteran access to and receiving care, including through community-based organizations and providers? What viable, scalable options are likely to produce the best results?
+
+## Templated output and rubric
+
+Coming soon.
+
+## Analytic techniques
+
+Analytic approaches may include the following and many other techniques, tailored to the team's areas of expertise and skills:
+
+-   data visualization (especially interactive) and tables
+
+-   descriptive statistics and trend analysis
+
+-   geospatial analysis of service access
+
+-   systematic review and meta-analysis
+
+-   machine learning
+
+-   qualitative analysis

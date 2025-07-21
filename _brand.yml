@@ -1,0 +1,17 @@
+color:
+  palette:
+    dark-blue: "#22418a"
+    blue: "#50dbfd"
+  background: white
+  foreground: black
+  primary: dark-blue
+
+logo: 
+  medium: logo.png
+
+typography:
+  fonts:
+    - family: Arial
+      source: google
+  base: Arial
+  headings: Arial Bold
