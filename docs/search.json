@@ -7,32 +7,32 @@
     "text": "Organized by the A-G Associates Data Science Community of Practice, in preparation for our September 2025 Suicide Prevention Month datathon."
   },
   {
-    "objectID": "index.html#goals",
-    "href": "index.html#goals",
+    "objectID": "index.html#objectives",
+    "href": "index.html#objectives",
     "title": "Mission: Lifeline Datathon Preparation",
-    "section": "Goals",
-    "text": "Goals\n\nTo connect staff across the company with a common goal, using available data and tools, leveraging varied expertise\nTo launch our Data Science Community of Practice GitHub with a portfolio of creative projects based on public data sets, for use as a marketing tool online\nTo advance understanding of available VA data sets and analytic approaches that could be leveraged for the VA SPP"
+    "section": "Objectives",
+    "text": "Objectives\n\nDevelop actionable insights and solutions focused on suicide prevention for veterans and active duty military members by integrating data science, qualitative insights, and evidence-based policy research\nTo connect staff across the company with a common goal, using available data and tools, leveraging varied expertise for collaborative learning and innovation in research and data science, thus challenging participants to address real-world problems with data\nTo launch our Data Science Community of Practice GitHub with a portfolio of creative analytic projects based on public data sets, for use as a marketing tool online\nTo advance understanding of available VA data sets and analytic approaches that could be leveraged for the VA SPP"
   },
   {
     "objectID": "index.html#timeline",
     "href": "index.html#timeline",
     "title": "Mission: Lifeline Datathon Preparation",
     "section": "Timeline",
-    "text": "Timeline\n\nAugust\n\nMonthly CoP meeting focused on preparation - August 15 or 22 (TBD)\n\nSeptember\n\nExecute datathon - September 12 & 19\nDatathon final presentation - September 30 during All Staff meeting"
+    "text": "Timeline\n\nAugust\n\nMonthly CoP meeting focused on preparation - August 22 (one hour)\n\nCoP leaders will draft team lists with potential research questions, data sources, and analytic techniques; we will use this time to refine these\nParticipants, please come prepared with your interests and capabilities related to the above\n\n\nSeptember\n\nExecute datathon - September 12 & 19 (two full work days set aside, as participants are able)\nDatathon final presentation - September 30 during All Staff meeting"
   },
   {
     "objectID": "index.html#teams",
     "href": "index.html#teams",
     "title": "Mission: Lifeline Datathon Preparation",
     "section": "Teams",
-    "text": "Teams\nParticipants will be grouped into logical teams based on data accesses (VA versus public) and area of expertise.\nTeams will be provided with examples of potential data sources, research questions, templated outputs (leveraging the A-G brand toolkit), and analytic techniques, as well as as a rubric for structured guidance."
+    "text": "Teams\nParticipants will be grouped into logical teams based on data accesses (VA versus public), areas of expertise, and their interests. Participants are encouraged to seek out data sets and research questions or themes that they are passionate about and wish to explore.\nTeams will be provided with examples of potential data sources, research questions, examples of templated outputs such as this website (created in RStudio, leveraging the A-G brand toolkit), and analytic techniques, as well as as a rubric for structured guidance.\nThis website is your primary resource for initial guidance, but please use all of your resources (including the internet!) and reach out to other staff as helpful; we have so many internal experts in suicide prevention, military/veteran matters, and analytics."
   },
   {
     "objectID": "index.html#data-sources",
     "href": "index.html#data-sources",
     "title": "Mission: Lifeline Datathon Preparation",
     "section": "Data sources",
-    "text": "Data sources\nIf you are VA-cleared, your team will likely use VA data sources. We are currently working on compiling a list of available data sources we are approved to use.\nIf you are not, your team will likely be working with public data sets, available online. We will provide a few examples of curated data sets (coming soon).\nHowever, please do not allow this to limit your team - search online for accessible data sets that will help you answer your research question. If you have access to another data set you’d like to use, please bring it (assuming you have the appropriate approvals)."
+    "text": "Data sources\nIf you are VA-cleared, your team will likely use VA data sources and work within VA systems, unless de-identified data is approved for storage in external systems. We are currently working on compiling a list of available data sources we are approved to use. We have confirmed that the VA remote desktop has RStudio and will begin testing accesses and technical limitations soon, as well as what other software is available.\nIf you are not VA-cleared, your team will likely be working with public data sets, available online. We will provide a few curated data sets, including death data from VA, CDC, and DSPO, as available.\nHowever, please do not allow this to limit your team - search online for accessible data sets that will help you answer your research question. If you have access to another data set you’d like to use, please bring it (assuming you have the appropriate approvals)."
   },
   {
     "objectID": "index.html#research-questions",
@@ -42,17 +42,17 @@
     "text": "Research questions\nWe will aim to have finalized research questions and basic analytic plans (which can change as needed) for each team by the end of the August CoP meeting, during which each team will meet to prepare.\nWhen possible within the limitation of the datathon, we will align with the VA SPP research questions:\n\nWhat innovative strategies engage the 50% of un- and disengaged Veterans AND replicate (to the extent practicable) the VA’s suicide prevention system in the community?\nIn addition to the resources provided by VA, what innovative upstream and downstream support exists in communities to serve Veterans at risk of suicide?\nWhat is the demand for suicide clinical and non-clinical support among Veterans? Where are they seeking and obtaining support now? What are their preferences?\nWhich evidence-based practices are utilized by community-based organizations and providers and have the greatest impact on preventing Veteran suicide?\nWhich emerging innovations are utilized by community-based organizations and providers and show the greatest promise for preventing Veteran suicide?\nWhich evidence-based supports and emerging innovations, in what combination, have the greatest impact on preventing Veteran suicide?\nWhat VA systems, policies, processes, or practices impede Veteran access to and receiving care, including through community-based organizations and providers? What viable, scalable options are likely to produce the best results?"
   },
   {
-    "objectID": "index.html#templated-output-and-rubric",
-    "href": "index.html#templated-output-and-rubric",
+    "objectID": "index.html#rubric",
+    "href": "index.html#rubric",
     "title": "Mission: Lifeline Datathon Preparation",
-    "section": "Templated output and rubric",
-    "text": "Templated output and rubric\nComing soon."
+    "section": "Rubric",
+    "text": "Rubric\n\n\n\n\n\n\n\nCriteria\nGoal\n\n\n\n\nContribution to the field\nProject contributes meaningfully to suicide prevention analytics beyond currently available research, offering insights or solutions that may have been overlooked in the past, or attacks the problem with a new angle, on a bigger scale, or at a higher level, while accurately reflecting the data\n\n\nNext steps\nProjects includes nuanced acknowledgement of limitations and suggestions for potential next steps, improvements, and/or implementation of insights/solutions, grounded in data/evidence\n\n\nInternal presentation\nTeam presents engaging, concise presentation within given time limits, resulting in nuanced discussion; each team member is involved\n\n\nFinal output (VA)\nProject leverages VA data in a new way, resulting in an output that is concretely useful to VA SPP team, informing their efforts to answer the research questions\n\n\nFinal output (public)\nOutput on GitHub (interactive dashboard/application, website, research notebook/report) or Tableau Public (interactive dashboard, data story) reflects A-G’s innovative analytic capabilities, exemplifying how data can be used to inform client work; leverages A-G branding"
   },
   {
     "objectID": "index.html#analytic-techniques",
     "href": "index.html#analytic-techniques",
     "title": "Mission: Lifeline Datathon Preparation",
     "section": "Analytic techniques",
-    "text": "Analytic techniques\nAnalytic approaches may include the following and many other techniques, tailored to the team’s areas of expertise and skills:\n\ndata visualization (especially interactive) and tables\ndescriptive statistics and trend analysis\ngeospatial analysis of service access\nsystematic review and meta-analysis\nmachine learning\nqualitative analysis"
+    "text": "Analytic techniques\nAnalytic approaches can vary from beginner to advanced and may include the following and many other techniques, tailored to the individual’s areas of expertise and skills:\n\ndata visualization (especially interactive) and tables\ndescriptive statistics and trend analysis\ngeospatial analysis of service access\nsystematic review and meta-analysis\nmachine learning\nqualitative analysis\n\nTeams will be constructed intentionally to support cohesive analyses as well as staff growth."
   }
 ]

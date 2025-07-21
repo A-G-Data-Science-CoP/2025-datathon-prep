@@ -4,11 +4,17 @@ title: "Mission: Lifeline Datathon Preparation"
 
 Organized by the A-G Associates Data Science Community of Practice, in preparation for our September 2025 Suicide Prevention Month datathon.
 
-## Goals
+::: callout-note
+## This datathon will also require expertise in: suicide prevention, veteran and military populations, project management, presentation development, and marketing (optimizing creative outputs for the GitHub and internal presentation). Thus, our non-analytic staff also have a vital role to play!
+:::
 
--   To connect staff across the company with a common goal, using available data and tools, leveraging varied expertise
+## Objectives
 
--   To launch our Data Science Community of Practice GitHub with a portfolio of creative projects based on public data sets, for use as a marketing tool online
+-   Develop actionable insights and solutions focused on suicide prevention for veterans and active duty military members by integrating data science, qualitative insights, and evidence-based policy research
+
+-   To connect staff across the company with a common goal, using available data and tools, leveraging varied expertise for collaborative learning and innovation in research and data science, thus challenging participants to address real-world problems with data
+
+-   To launch our Data Science Community of Practice GitHub with a portfolio of creative analytic projects based on public data sets, for use as a marketing tool online
 
 -   To advance understanding of available VA data sets and analytic approaches that could be leveraged for the VA SPP
 
@@ -16,25 +22,29 @@ Organized by the A-G Associates Data Science Community of Practice, in preparati
 
 -   August
 
-    -   Monthly CoP meeting focused on preparation - August 15 or 22 (TBD)
+    -   Monthly CoP meeting focused on preparation - August 22 (one hour)
+        -   CoP leaders will draft team lists with potential research questions, data sources, and analytic techniques; we will use this time to refine these
+        -   Participants, please come prepared with your interests and capabilities related to the above
 
 -   September
 
-    -   Execute datathon - September 12 & 19
+    -   Execute datathon - September 12 & 19 (two full work days set aside, as participants are able)
 
     -   Datathon final presentation - September 30 during All Staff meeting
 
 ## Teams
 
-Participants will be grouped into logical teams based on data accesses (VA versus public) and area of expertise.
+Participants will be grouped into logical teams based on data accesses (VA versus public), areas of expertise, and their interests. Participants are encouraged to seek out data sets and research questions or themes that they are passionate about and wish to explore.
 
-Teams will be provided with examples of potential data sources, research questions, templated outputs (leveraging the A-G brand toolkit), and analytic techniques, as well as as a rubric for structured guidance.
+Teams will be provided with examples of potential data sources, research questions, examples of templated outputs such as this website (created in RStudio, leveraging the A-G brand toolkit), and analytic techniques, as well as as a rubric for structured guidance.
+
+This website is your primary resource for initial guidance, but please use all of your resources (including the internet!) and reach out to other staff as helpful; we have so many internal experts in suicide prevention, military/veteran matters, and analytics.
 
 ## Data sources
 
-If you are VA-cleared, your team will likely use VA data sources. We are currently working on compiling a list of available data sources we are approved to use.
+If you are VA-cleared, your team will likely use VA data sources and work within VA systems, unless de-identified data is approved for storage in external systems. We are currently working on compiling a list of available data sources we are approved to use. We have confirmed that the VA remote desktop has RStudio and will begin testing accesses and technical limitations soon, as well as what other software is available.
 
-If you are not, your team will likely be working with public data sets, available online. We will provide a few examples of curated data sets (coming soon).
+If you are not VA-cleared, your team will likely be working with public data sets, available online. We will provide a few curated data sets, including death data from VA, CDC, and DSPO, as available.
 
 However, please do not allow this to limit your team - search online for accessible data sets that will help you answer your research question. If you have access to another data set you'd like to use, please bring it (assuming you have the appropriate approvals).
 
@@ -52,13 +62,19 @@ When possible within the limitation of the datathon, we will align with the VA S
 6.  Which evidence-based supports and emerging innovations, in what combination, have the greatest impact on preventing Veteran suicide?
 7.  What VA systems, policies, processes, or practices impede Veteran access to and receiving care, including through community-based organizations and providers? What viable, scalable options are likely to produce the best results?
 
-## Templated output and rubric
+## Rubric
 
-Coming soon.
+| Criteria | Goal |
+|----|----|
+| Contribution to the field | Project contributes meaningfully to suicide prevention analytics beyond currently available research, offering insights or solutions that may have been overlooked in the past, or attacks the problem with a new angle, on a bigger scale, or at a higher level, while accurately reflecting the data |
+| Next steps | Projects includes nuanced acknowledgement of limitations and suggestions for potential next steps, improvements, and/or implementation of insights/solutions, grounded in data/evidence |
+| Internal presentation | Team presents engaging, concise presentation within given time limits, resulting in nuanced discussion; each team member is involved |
+| Final output (VA) | Project leverages VA data in a new way, resulting in an output that is concretely useful to VA SPP team, informing their efforts to answer the research questions |
+| Final output (public) | Output on GitHub (interactive dashboard/application, website, research notebook/report) or Tableau Public (interactive dashboard, data story) reflects A-G's innovative analytic capabilities, exemplifying how data can be used to inform client work; leverages A-G branding |
 
 ## Analytic techniques
 
-Analytic approaches may include the following and many other techniques, tailored to the team's areas of expertise and skills:
+Analytic approaches can vary from beginner to advanced and may include the following and many other techniques, tailored to the individual's areas of expertise and skills:
 
 -   data visualization (especially interactive) and tables
 
@@ -71,3 +87,5 @@ Analytic approaches may include the following and many other techniques, tailore
 -   machine learning
 
 -   qualitative analysis
+
+Teams will be constructed intentionally to support cohesive analyses as well as staff growth.
