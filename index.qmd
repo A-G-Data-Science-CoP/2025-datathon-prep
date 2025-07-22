@@ -67,6 +67,7 @@ When possible within the limitation of the datathon, we will align with the VA S
 | Criteria | Goal |
 |----|----|
 | Contribution to the field | Project contributes meaningfully to suicide prevention analytics beyond currently available research, offering insights or solutions that may have been overlooked in the past, or attacks the problem with a new angle, on a bigger scale, or at a higher level, while accurately reflecting the data |
+| Quality control (QC) | A second analyst has independently confirmed the numbers, claims, facts, sources, etc., ensuring that the output is free of errors and clearly conveys all information |
 | Next steps | Projects includes nuanced acknowledgement of limitations and suggestions for potential next steps, improvements, and/or implementation of insights/solutions, grounded in data/evidence |
 | Internal presentation | Team presents engaging, concise presentation within given time limits, resulting in nuanced discussion; each team member is involved |
 | Final output (VA) | Project leverages VA data in a new way, resulting in an output that is concretely useful to VA SPP team, informing their efforts to answer the research questions |
