@@ -1,0 +1,17 @@
+---
+title: "Mission: Lifeline Datathon Preparation"
+---
+
+## Examples of datathons from other groups
+
+-   <https://www.widsworldwide.org/topics/datathon/>
+
+-   <https://www.widsworldwide.org/get-inspired/blog/wids-global-datathon-2025-winners/>
+
+-   <https://www.linkedin.com/pulse/tria-federal-datathon-transforms-open-source-data-healthcare-j3fve/>
+
+-   <https://www.agacgfm.org/Events/Datathon/Home.aspx>
+
+-   <https://www.citadel.com/careers/programs-and-events/datathons/>
+
+-   <https://unstats.un.org/bigdata/events/2024/un-datathon/>

@@ -22,7 +22,7 @@ Organized by the A-G Associates Data Science Community of Practice, in preparati
 
 -   August
 
-    -   Monthly CoP meeting focused on preparation - August 22 (one hour)
+    -   Monthly CoP meeting focused on preparation - August 15 and/or 22 (one hour each day)
         -   CoP leaders will draft team lists with potential research questions, data sources, and analytic techniques; we will use this time to refine these
         -   Participants, please come prepared with your interests and capabilities related to the above
 

@@ -8,6 +8,13 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: data.qmd
+        text: Data
+      - href: examples.qmd
+        text: Examples
+      - href: learning.qmd
+        text: Learning
+
 
 format:
   html:

@@ -1,0 +1,47 @@
+---
+title: "Mission: Lifeline Datathon Preparation"
+---
+
+::: callout-note
+## More info to come soon!
+:::
+
+## Data sources
+
+If you are VA-cleared, your team will likely use VA data sources and work within VA systems, unless de-identified data is approved for storage in external systems. We are currently working on compiling a list of available data sources we are approved to use. We have confirmed that the VA remote desktop has RStudio and will begin testing accesses and technical limitations soon, as well as what other software is available.
+
+If you are not VA-cleared, your team will likely be working with public data sets, available online. We will provide a few curated data sets, including death data from VA, CDC, and DSPO, as available.
+
+However, please do not allow this to limit your team - search online for accessible data sets that will help you answer your research question. If you have access to another data set you'd like to use, please bring it (assuming you have the appropriate approvals).
+
+## Research questions
+
+We will aim to have finalized research questions and basic analytic plans (which can change as needed) for each team by the end of the August CoP meeting, during which each team will meet to prepare.
+
+When possible within the limitation of the datathon, we will align with the VA SPP research questions:
+
+1.  What innovative strategies engage the 50% of un- and disengaged Veterans AND replicate (to the extent practicable) the VA's suicide prevention system in the community?
+2.  In addition to the resources provided by VA, what innovative upstream and downstream support exists in communities to serve Veterans at risk of suicide?
+3.  What is the demand for suicide clinical and non-clinical support among Veterans? Where are they seeking and obtaining support now? What are their preferences?
+4.  Which evidence-based practices are utilized by community-based organizations and providers and have the greatest impact on preventing Veteran suicide?
+5.  Which emerging innovations are utilized by community-based organizations and providers and show the greatest promise for preventing Veteran suicide?
+6.  Which evidence-based supports and emerging innovations, in what combination, have the greatest impact on preventing Veteran suicide?
+7.  What VA systems, policies, processes, or practices impede Veteran access to and receiving care, including through community-based organizations and providers? What viable, scalable options are likely to produce the best results?
+
+## Analytic techniques
+
+Analytic approaches can vary from beginner to advanced and may include the following and many other techniques, tailored to the individual's areas of expertise and skills:
+
+-   data visualization (especially interactive) and tables
+
+-   descriptive statistics and trend analysis
+
+-   geospatial analysis of service access
+
+-   systematic review and meta-analysis
+
+-   machine learning
+
+-   qualitative analysis
+
+Teams will be constructed intentionally to support cohesive analyses as well as staff growth.

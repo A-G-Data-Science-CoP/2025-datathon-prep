@@ -18,7 +18,7 @@
     "href": "index.html#timeline",
     "title": "Mission: Lifeline Datathon Preparation",
     "section": "Timeline",
-    "text": "Timeline\n\nAugust\n\nMonthly CoP meeting focused on preparation - August 22 (one hour)\n\nCoP leaders will draft team lists with potential research questions, data sources, and analytic techniques; we will use this time to refine these\nParticipants, please come prepared with your interests and capabilities related to the above\n\n\nSeptember\n\nExecute datathon - September 12 & 19 (two full work days set aside, as participants are able)\nDatathon final presentation - September 30 during All Staff meeting"
+    "text": "Timeline\n\nAugust\n\nMonthly CoP meeting focused on preparation - August 15 and/or 22 (one hour each day)\n\nCoP leaders will draft team lists with potential research questions, data sources, and analytic techniques; we will use this time to refine these\nParticipants, please come prepared with your interests and capabilities related to the above\n\n\nSeptember\n\nExecute datathon - September 12 & 19 (two full work days set aside, as participants are able)\nDatathon final presentation - September 30 during All Staff meeting"
   },
   {
     "objectID": "index.html#teams",
@@ -54,5 +54,54 @@
     "title": "Mission: Lifeline Datathon Preparation",
     "section": "Analytic techniques",
     "text": "Analytic techniques\nAnalytic approaches can vary from beginner to advanced and may include the following and many other techniques, tailored to the individual’s areas of expertise and skills:\n\ndata visualization (especially interactive) and tables\ndescriptive statistics and trend analysis\ngeospatial analysis of service access\nsystematic review and meta-analysis\nmachine learning\nqualitative analysis\n\nTeams will be constructed intentionally to support cohesive analyses as well as staff growth."
+  },
+  {
+    "objectID": "data.html",
+    "href": "data.html",
+    "title": "Mission: Lifeline Datathon Preparation",
+    "section": "",
+    "text": "More info to come soon!"
+  },
+  {
+    "objectID": "data.html#data-sources",
+    "href": "data.html#data-sources",
+    "title": "Mission: Lifeline Datathon Preparation",
+    "section": "Data sources",
+    "text": "Data sources\nIf you are VA-cleared, your team will likely use VA data sources and work within VA systems, unless de-identified data is approved for storage in external systems. We are currently working on compiling a list of available data sources we are approved to use. We have confirmed that the VA remote desktop has RStudio and will begin testing accesses and technical limitations soon, as well as what other software is available.\nIf you are not VA-cleared, your team will likely be working with public data sets, available online. We will provide a few curated data sets, including death data from VA, CDC, and DSPO, as available.\nHowever, please do not allow this to limit your team - search online for accessible data sets that will help you answer your research question. If you have access to another data set you’d like to use, please bring it (assuming you have the appropriate approvals)."
+  },
+  {
+    "objectID": "data.html#research-questions",
+    "href": "data.html#research-questions",
+    "title": "Mission: Lifeline Datathon Preparation",
+    "section": "Research questions",
+    "text": "Research questions\nWe will aim to have finalized research questions and basic analytic plans (which can change as needed) for each team by the end of the August CoP meeting, during which each team will meet to prepare.\nWhen possible within the limitation of the datathon, we will align with the VA SPP research questions:\n\nWhat innovative strategies engage the 50% of un- and disengaged Veterans AND replicate (to the extent practicable) the VA’s suicide prevention system in the community?\nIn addition to the resources provided by VA, what innovative upstream and downstream support exists in communities to serve Veterans at risk of suicide?\nWhat is the demand for suicide clinical and non-clinical support among Veterans? Where are they seeking and obtaining support now? What are their preferences?\nWhich evidence-based practices are utilized by community-based organizations and providers and have the greatest impact on preventing Veteran suicide?\nWhich emerging innovations are utilized by community-based organizations and providers and show the greatest promise for preventing Veteran suicide?\nWhich evidence-based supports and emerging innovations, in what combination, have the greatest impact on preventing Veteran suicide?\nWhat VA systems, policies, processes, or practices impede Veteran access to and receiving care, including through community-based organizations and providers? What viable, scalable options are likely to produce the best results?"
+  },
+  {
+    "objectID": "data.html#analytic-techniques",
+    "href": "data.html#analytic-techniques",
+    "title": "Mission: Lifeline Datathon Preparation",
+    "section": "Analytic techniques",
+    "text": "Analytic techniques\nAnalytic approaches can vary from beginner to advanced and may include the following and many other techniques, tailored to the individual’s areas of expertise and skills:\n\ndata visualization (especially interactive) and tables\ndescriptive statistics and trend analysis\ngeospatial analysis of service access\nsystematic review and meta-analysis\nmachine learning\nqualitative analysis\n\nTeams will be constructed intentionally to support cohesive analyses as well as staff growth."
+  },
+  {
+    "objectID": "examples.html",
+    "href": "examples.html",
+    "title": "Mission: Lifeline Datathon Preparation",
+    "section": "",
+    "text": "https://www.widsworldwide.org/topics/datathon/\nhttps://www.widsworldwide.org/get-inspired/blog/wids-global-datathon-2025-winners/\nhttps://www.linkedin.com/pulse/tria-federal-datathon-transforms-open-source-data-healthcare-j3fve/\nhttps://www.agacgfm.org/Events/Datathon/Home.aspx\nhttps://www.citadel.com/careers/programs-and-events/datathons/\nhttps://unstats.un.org/bigdata/events/2024/un-datathon/"
+  },
+  {
+    "objectID": "examples.html#examples-of-datathons-from-other-groups",
+    "href": "examples.html#examples-of-datathons-from-other-groups",
+    "title": "Mission: Lifeline Datathon Preparation",
+    "section": "",
+    "text": "https://www.widsworldwide.org/topics/datathon/\nhttps://www.widsworldwide.org/get-inspired/blog/wids-global-datathon-2025-winners/\nhttps://www.linkedin.com/pulse/tria-federal-datathon-transforms-open-source-data-healthcare-j3fve/\nhttps://www.agacgfm.org/Events/Datathon/Home.aspx\nhttps://www.citadel.com/careers/programs-and-events/datathons/\nhttps://unstats.un.org/bigdata/events/2024/un-datathon/"
+  },
+  {
+    "objectID": "learning.html",
+    "href": "learning.html",
+    "title": "Mission: Lifeline Datathon Preparation",
+    "section": "",
+    "text": "More info to come soon. Please let us know if specific resources would be helpful!"
   }
 ]
