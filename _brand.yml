@@ -14,4 +14,4 @@ typography:
     - family: Arial
       source: google
   base: Arial
-  headings: Arial Bold
+  headings: Arial
