@@ -16,13 +16,13 @@ Organized by the A-G Associates Data Science Community of Practice, in preparati
 
 -   To launch our Data Science Community of Practice GitHub with a portfolio of creative analytic projects based on public data sets, for use as a marketing tool online
 
--   To advance understanding of available VA data sets and analytic approaches that could be leveraged for the VA SPP
+-   To familiarize staff with relevant, available data sources - where they are, who owns them, how to access, how we might leverage them, etc.
 
 ## Timeline
 
 -   August
 
-    -   Monthly CoP meeting focused on preparation - August 15 and/or 22 (one hour each day)
+    -   Meeting focused on preparation - August 22
         -   CoP leaders will draft team lists with potential research questions, data sources, and analytic techniques; we will use this time to refine these
         -   Participants, please come prepared with your interests and capabilities related to the above
 
@@ -32,9 +32,24 @@ Organized by the A-G Associates Data Science Community of Practice, in preparati
 
     -   Datathon final presentation - September 30 during All Staff meeting
 
+-   October
+
+    -   After marketing approval process is complete, push public portfolio to GitHub
+
+## Roles
+
+| Role Title | Description | Time Commitment |
+|----|----|----|
+| Panel/judges | SME to provide guidance for teams throughout datathon and vote | An hour or so during each datathon day and in preparation; should we set up office hour meetings for this purpose? |
+| Analyst | Plan and execute analyses | Up to two full datathon days; additional time for planning and refining as available/needed |
+| Support | Provide project management, presentation, or other expertise (research) to facilitate team success | Up to two full datathon days; additional time for planning and refining as available/needed |
+| Learner | Shadow and participate as desired | Join sessions as able/desired |
+
+: Datathon roles
+
 ## Teams
 
-Participants will be grouped into logical teams based on data accesses (VA versus public), areas of expertise, and their interests. Participants are encouraged to seek out data sets and research questions or themes that they are passionate about and wish to explore.
+Participants will be grouped into logical teams based on data accesses, areas of expertise, and their interests. Participants are encouraged to seek out data sets and research questions or themes that they are passionate about and wish to explore.
 
 Teams will be provided with examples of potential data sources, research questions, examples of templated outputs such as this website (created in RStudio, leveraging the A-G brand toolkit), and analytic techniques, as well as as a rubric for structured guidance.
 
@@ -42,25 +57,13 @@ This website is your primary resource for initial guidance, but please use all o
 
 ## Data sources
 
-If you are VA-cleared, your team will likely use VA data sources and work within VA systems, unless de-identified data is approved for storage in external systems. We are currently working on compiling a list of available data sources we are approved to use. We have confirmed that the VA remote desktop has RStudio and will begin testing accesses and technical limitations soon, as well as what other software is available.
-
-If you are not VA-cleared, your team will likely be working with public data sets, available online. We will provide a few curated data sets, including death data from VA, CDC, and DSPO, as available.
+We can provide a few curated, publicly available data sets, including death data from VA, CDC, and DSPO, as available.
 
 However, please do not allow this to limit your team - search online for accessible data sets that will help you answer your research question. If you have access to another data set you'd like to use, please bring it (assuming you have the appropriate approvals).
 
 ## Research questions
 
-We will aim to have finalized research questions and basic analytic plans (which can change as needed) for each team by the end of the August CoP meeting, during which each team will meet to prepare.
-
-When possible within the limitation of the datathon, we will align with the VA SPP research questions:
-
-1.  What innovative strategies engage the 50% of un- and disengaged Veterans AND replicate (to the extent practicable) the VA's suicide prevention system in the community?
-2.  In addition to the resources provided by VA, what innovative upstream and downstream support exists in communities to serve Veterans at risk of suicide?
-3.  What is the demand for suicide clinical and non-clinical support among Veterans? Where are they seeking and obtaining support now? What are their preferences?
-4.  Which evidence-based practices are utilized by community-based organizations and providers and have the greatest impact on preventing Veteran suicide?
-5.  Which emerging innovations are utilized by community-based organizations and providers and show the greatest promise for preventing Veteran suicide?
-6.  Which evidence-based supports and emerging innovations, in what combination, have the greatest impact on preventing Veteran suicide?
-7.  What VA systems, policies, processes, or practices impede Veteran access to and receiving care, including through community-based organizations and providers? What viable, scalable options are likely to produce the best results?
+We will aim to have suggested research questions for each team by the end of the August CoP meeting, during which each team will meet to prepare.
 
 ## Rubric
 
@@ -70,8 +73,7 @@ When possible within the limitation of the datathon, we will align with the VA S
 | Quality control (QC) | A second analyst has independently confirmed the numbers, claims, facts, sources, etc., ensuring that the output is free of errors and clearly conveys all information |
 | Next steps | Projects includes nuanced acknowledgement of limitations and suggestions for potential next steps, improvements, and/or implementation of insights/solutions, grounded in data/evidence |
 | Internal presentation | Team presents engaging, concise presentation within given time limits, resulting in nuanced discussion; each team member is involved |
-| Final output (VA) | Project leverages VA data in a new way, resulting in an output that is concretely useful to VA SPP team, informing their efforts to answer the research questions |
-| Final output (public) | Output on GitHub (interactive dashboard/application, website, research notebook/report) or Tableau Public (interactive dashboard, data story) reflects A-G's innovative analytic capabilities, exemplifying how data can be used to inform client work; leverages A-G branding |
+| Final output | Output on GitHub (interactive dashboard/application, website, research notebook/report) or Tableau Public (interactive dashboard, data story) reflects A-G's innovative analytic capabilities, exemplifying how data can be used to inform client work; leverages A-G branding |
 
 ## Analytic techniques
 
