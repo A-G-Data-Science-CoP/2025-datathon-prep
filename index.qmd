@@ -40,7 +40,7 @@ Organized by the A-G Associates Data Science Community of Practice, in preparati
 
 | Role Title | Description | Time Commitment |
 |----|----|----|
-| Panel/judges | SME to provide guidance for teams throughout datathon and vote | An hour or so during each datathon day and in preparation; should we set up office hour meetings for this purpose? |
+| Panel/judges | SME to provide guidance for teams throughout datathon and vote | An hour or so during each datathon day and in preparation; we set up office hour meetings for this purpose |
 | Analyst | Plan and execute analyses | Up to two full datathon days; additional time for planning and refining as available/needed |
 | Support | Provide project management, presentation, or other expertise (research) to facilitate team success | Up to two full datathon days; additional time for planning and refining as available/needed |
 | Learner | Shadow and participate as desired | Join sessions as able/desired |
